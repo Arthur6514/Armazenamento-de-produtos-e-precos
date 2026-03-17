@@ -1,3 +1,4 @@
+```python
 from time import sleep
 
 # Declaração de variáveis
@@ -50,3 +51,4 @@ for preco in precos:
         c1 += 1
 
 print(f'\nQuantidade de produtos que custam mais de R$ 1000.00: {c1}')
+```
